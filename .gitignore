@@ -1,0 +1,22 @@
+# Ignore compiled binary files
+*.exe
+*.dll
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore debugging files
+*.map
+
+# Ignore temporary files
+*.bak
+*.log
+*.tmp
+
+# Ignore all hidden system files
+.DS_Store
+Thumbs.db
+
+# Ignore macOS dSYM directories (debug symbol files)
+*.dSYM/
